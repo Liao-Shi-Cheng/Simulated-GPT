@@ -1,0 +1,74 @@
+import opencc
+import json
+import re
+
+raw = json.load(open("prosody/data/RAW.json", encoding="utf-8"))
+groups = {} #韵部名->字
+index = {} #字-> {"pingze": "PZ", "groups": [...]}
+chinese_to_number = {
+    "一": 1, "二": 2, "三": 3, "四": 4, "五": 5,
+    "六": 6, "七": 7, "八": 8, "九": 9, "十": 10,
+    "十一": 11, "十二": 12, "十三": 13, "十四": 14, "十五": 15,
+    "十六": 16, "十七": 17, "十八": 18, "十九": 19, "二十": 20,
+    "二十一": 21, "二十二": 22, "二十三": 23, "二十四": 24, "二十五": 25,
+    "二十六": 26, "二十七": 27, "二十八": 28, "二十九": 29, "三十": 30
+}
+pingze = {
+    '上平聲' : 'P',
+    '下平聲' : 'P',
+    '上聲' : 'Z',
+    '去聲' : 'Z',
+    '入聲' : 'z'
+}
+rows = []
+for name in raw["ping"]["上平聲部"]:
+    PAT = re.compile(r"^(上平聲|下平聲|上聲|去聲|入聲)([一二三四五六七八九十]+)(.+)$")
+    m = PAT.match(name.strip())
+    rows.append({"cat": m.group(1),
+                  "num": chinese_to_number[m.group(2)], 
+                  "rhyme": m.group(3).strip(), 
+                  "pingze": pingze[m.group(1)]})
+
+for name in raw["ping"]["下平聲部"]:
+    PAT = re.compile(r"^(上平聲|下平聲|上聲|去聲|入聲)([一二三四五六七八九十]+)(.+)$")
+    m = PAT.match(name.strip())
+    rows.append({"cat": m.group(1),
+                  "num": chinese_to_number[m.group(2)], 
+                  "rhyme": m.group(3).strip(), 
+                  "pingze": pingze[m.group(1)]})
+
+for name in raw["ze"]["上聲部"]:
+    PAT = re.compile(r"^(上平聲|下平聲|上聲|去聲|入聲)([一二三四五六七八九十]+)(.+)$")
+    m = PAT.match(name.strip())
+    rows.append({"cat": m.group(1),
+                  "num": chinese_to_number[m.group(2)], 
+                  "rhyme": m.group(3).strip(), 
+                  "pingze": pingze[m.group(1)]})
+    
+for name in raw["ze"]["去聲部"]:
+    PAT = re.compile(r"^(上平聲|下平聲|上聲|去聲|入聲)([一二三四五六七八九十]+)(.+)$")
+    m = PAT.match(name.strip())
+    rows.append({"cat": m.group(1),
+                  "num": chinese_to_number[m.group(2)], 
+                  "rhyme": m.group(3).strip(), 
+                  "pingze": pingze[m.group(1)]})
+    
+for name in raw["ze"]["入聲部"]:
+    PAT = re.compile(r"^(上平聲|下平聲|上聲|去聲|入聲)([一二三四五六七八九十]+)(.+)$")
+    m = PAT.match(name.strip())
+    rows.append({"cat": m.group(1),
+                  "num": chinese_to_number[m.group(2)], 
+                  "rhyme": m.group(3).strip(), 
+                  "pingze": pingze[m.group(1)]})
+
+converter = opencc.OpenCC("t2s.json") 
+print(converter.convert('東風聲'))
+rhyme_converted = []
+for i in rows:
+    rhyme_converted.append(converter.convert(i["rhyme"]))
+print("转换后：" + str(rhyme_converted))
+word_not_converted = []
+for i in rows:
+       if converter.convert(i["rhyme"]) == i["rhyme"]:
+           word_not_converted.append(i["rhyme"])
+print("未转换的字：" + str(word_not_converted)+" 共计：" + str(len(word_not_converted)))

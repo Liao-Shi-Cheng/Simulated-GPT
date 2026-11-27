@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "name": "五言基本句式",
+    "note": "P=平，Z=仄。A/C 仄收（非韵句），B/D 平收（韵句）。格式由句式经对/粘推导，禁止手工写死 4 个格式。",
+    "source": "工作说明 §3.3.1"
+  },
+  "patterns": {
+    "A": {"pz": "ZZPPZ", "start": "仄起", "rhyme": false, "reading": "仄仄平平仄"},
+    "B": {"pz": "PPZZP", "start": "平起", "rhyme": true, "reading": "平平仄仄平"},
+    "C": {"pz": "PPPZZ", "start": "平起", "rhyme": false, "reading": "平平平仄仄"},
+    "D": {"pz": "ZZZPP", "start": "仄起", "rhyme": true, "reading": "仄仄仄平平"}
+  },
+  "variants": {
+    "teao": {
+      "base": "C",
+      "pz": "PPZPZ",
+      "name": "特拗",
+      "note": "平平仄平仄，第3、4字互换；唐诗高频，W3 起默认启用"
+    },
+    "gujiu": {
+      "base": "B",
+      "pz": "ZPPZP",
+      "name": "孤平救",
+      "note": "仄平平仄平，第1字用仄后以第3字平声相救；可选"
+    }
+  }
+}
