@@ -6,3 +6,6 @@
 # Python
 __pycache__/
 *.pyc
+
+# 编辑器配置不入库（每人本地不同）
+/.vscode/
