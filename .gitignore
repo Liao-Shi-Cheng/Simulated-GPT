@@ -1,1 +1,8 @@
-data
+# 数据与训练产物（不进 git，见工作说明 §6.5）
+/data/raw/
+/data/processed/
+/out/
+
+# Python
+__pycache__/
+*.pyc

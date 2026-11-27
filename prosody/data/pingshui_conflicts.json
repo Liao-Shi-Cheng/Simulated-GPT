@@ -1,0 +1,5416 @@
+{
+ "meta": {
+  "what": "两表共享字但平仄不同；本项目采用 primary（主表 RAW）。",
+  "count": 1352
+ },
+ "conflicts": {
+  "同": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "筩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "中": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "衷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "虫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "冲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "终": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "弓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "风": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "充": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "空": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "笼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "虹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "通": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "砻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "峒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "幪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "梦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "涷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鲖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "雺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瞢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "恫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嵷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "侗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "艟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "悾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "曚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "懵": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "戙": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "种": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "泛": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "倥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "冢": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "洚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鬷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蠓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "烔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嗡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "容": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "封": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "雍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "重": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "从": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "茸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "峰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蛩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "恭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "供": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "淙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "溶": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蛬": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "共": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "憧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "喁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "壅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "纵": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "憃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "葑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "汹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "禺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "跫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "恟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "灉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "珙": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "槦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "降": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "撞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "幢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "漎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "拢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "枝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "为": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "吹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "陂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "离": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "施": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "知": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "池": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "迟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "之": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "辞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "词": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "司": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "医": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "思": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "弥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "遗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "差": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "骑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "欺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "资": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "祇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "追": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "萎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "坻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嶷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "治": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "尼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "累": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "匜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "酏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "訾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "堕": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "其": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "睢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蠡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "噫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "丽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "氏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "壝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "比": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "骴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "洟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "椸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "猗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "剂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "荠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蓰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "祗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "澌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "踦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "戏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "褫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "椅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "腄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "崥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "痿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "酾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "梩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "貤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蚑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "仔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "委": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "秠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "剞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "箠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "胔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "觯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "姼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "柅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "觜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鉹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "藣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "騩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "圮": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "劙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "宦": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "诐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "玼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "徛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "罢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "俾": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "帔": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "枇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "笓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "狔": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "樏": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "藟": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "机": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "伎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "只": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "砥": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "弛": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "槌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "莳": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "孖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "孳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "耔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "诒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "迤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "眙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "唯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "隗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "围": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "菲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "飞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "肥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "几": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "衣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "诽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "痱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "欷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "豨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "餥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "刏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "譩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "斐": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "鱼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "书": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "舒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "车": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "予": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "誉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "舆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "狙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "疏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嘘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "猪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "闾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "除": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "如": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "与": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "苴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "于": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "茹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "且": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "糈": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "淤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "胠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鐻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "椐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "纾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "躇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "醵": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "据": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "龉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "呿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "藇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "铻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "疋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "湑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "衙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "涂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "洳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "驵": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "欤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "岨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "愚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "驱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "趋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "输": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "狐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "菰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "呼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "铺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "吁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瞿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "絇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "觎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蒌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "镂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "莩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "拘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "酺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "酤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "菟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "砮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "膴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "母": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "龋": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "哻": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "句": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "醹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "隃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "膜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瓠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "恶": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "溇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "杸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "芋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "姁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "呕": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "喻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "枸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "怃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "禂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瓿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "盓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "誧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "懦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "帑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "楰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "稌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "麌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "紨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "镀": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "岣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "滹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "謼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "孺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "洿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "呜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "邬": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "庑": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "污": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘐": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "齐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "妻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "氐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "诋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "题": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "媞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "折": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鸡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "徯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "霓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "批": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "挤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "懠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "泥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "睼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "褆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蜺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "醍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "巂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "雟": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "柴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "楷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "崽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "睚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "回": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "枚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "雷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "垒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嵬": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "开": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "哀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "裁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "来": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "栽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "灾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "虺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "悝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "培": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "坏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "骀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "徕": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "傀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "欸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "脢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "頧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "颏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "峐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "漼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "掊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "儡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "铠": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "因": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "人": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "仁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "亲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "陈": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "津": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "频": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "囷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "纯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "振": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "磷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "辚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "填": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "泯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "傧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "燐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "侲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "麎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "琎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "纫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "箘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "僎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "姺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "墐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "畛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嶙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瞵": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "眴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "份": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "菌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "袗": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "稹": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "缜": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "荺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "闻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "分": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "坟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "群": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "军": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "斤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "员": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "殷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "黂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "臐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "菫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蝹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "贲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "秎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "听": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "汶": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "援": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "言": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "藩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "浑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "敦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "奔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "论": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "根": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "媛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "番": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "反": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "宛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鞬": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "惛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蹇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蕴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "甗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "邧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "阮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "怨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蜿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "溷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "亹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "喷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沌": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "囤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "涽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "圈": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "翰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "单": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "难": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "滩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "弹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "干": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "澜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "看": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "观": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "冠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "漫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "汗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "叹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "摊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "钻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "磐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鬗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "啴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "胖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "弁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "豻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "莞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "拌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "曼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "痑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "禅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "墁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "剸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娈": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "杆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鼾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "犴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "汉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "梡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鞍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "皖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "脘": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "潸": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蛮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "山": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "间": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "眅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "擐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "轘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "扳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "讪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "患": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "獌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "黰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "僝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "疝": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "燕": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "钿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "颠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "牵": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "研": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "边": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "县": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鲜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "钱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "煎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "延": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "连": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "便": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "穿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "旋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "船": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "权": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "传": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "溅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "阗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "扁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "平": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "悁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "卷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "弮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "惓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蜎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "湔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "佃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "汧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嫣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "癣": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "莚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鄢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鬋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "狿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "扇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "猭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "键": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "跣": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "趼": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "狷": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "褊": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "睊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "煽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "梿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "漹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "攓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "搴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "揵": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "漩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "婘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "挑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "跳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "调": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "僚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "么": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "超": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "焦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "燋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "桡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "烧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "摇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "昭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "标": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "杓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "要": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "夭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "漂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "佻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "徼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鹩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "哨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "熇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "麃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "葽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "橇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "劭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鲦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "飂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "獠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "料": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "橑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "簝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "繇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "摽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "铫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鹞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "篻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "峤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "轿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "镣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嘹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "燎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "剽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "僄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瞭": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "廖": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "缭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "潦": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "嫖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "矫": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "蟏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "箾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "朓": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "脁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嫽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "筄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鹗": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "挢": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "钞": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "胶": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "坳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "敲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "炮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "哮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "泡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "媌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "跑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "筊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咬": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "教": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鞘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嗃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "佼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "姣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "謷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "訬": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "窌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "飑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "稍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鄗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "洨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "顟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鞄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "窅": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "凹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "艄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "挠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "操": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "刀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "漕": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "旄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "号": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "缫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "膏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "劳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "芼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "骜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "槄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "掺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "涝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "翿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "栲": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "焘": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "帱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "痨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鏊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "歌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "多": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "罗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "阿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "和": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "荷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "过": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "磨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "峨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "那": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "轲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "颇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瑳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "傩": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "磋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蹉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "驮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "献": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "硪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "些": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "他": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "拖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "逻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "哪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "髁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锉": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "垛": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "华": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "邪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "哑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "杷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "了": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "瘕": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "秅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "哆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "爹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "桦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "划": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "祖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "渣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "侘": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "胯": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "跁": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "衩": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "阳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "扬": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "张": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "王": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "长": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "藏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "场": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "泱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "梁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "相": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "创": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "忘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "望": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "尝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "偿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "枪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "狂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "强": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "苍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "行": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "妨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "飏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "倡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "穰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "将": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "量": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "伤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "汤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "商": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "防": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "榔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "浪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "亢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "吭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "丧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "潢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "傍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "当": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "昴": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "鄣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "障": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "桁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "颃": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "砀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "攘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瀼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "抢": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "炀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "彭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蒋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蔷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "邡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "凔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "彷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "眻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "疮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "怆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "奘": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "涨": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "怏": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "鞅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "阆": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "旁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "慷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "慌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "桄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "更": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "横": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "评": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "明": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "盟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鸣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "莹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "卿": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "生": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "檠": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "迎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "橙": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "争": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "睛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "盛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "声": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "正": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "轻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "名": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "令": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "并": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "倾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "搒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "栩": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "瞪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "侦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "裎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "顷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "榜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嫇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "禜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "狰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "箐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "晟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘿": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "狌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "渹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "经": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "莛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蜓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "停": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "宁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "钉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "星": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "醒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "惺": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "冥": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "溟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "螟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "屏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鼮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "町": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瞑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "暝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "娗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "廷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "帡": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "幎": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "烝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "凌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "冰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "应": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "乘": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "升": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "胜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "兴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "绘": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "凭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "凝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "称": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "憎": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "堋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鱦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "症": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "螣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "搄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "砅": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "缯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "甑": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "澄": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "忧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "流": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "留": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "油": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "游": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "州": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "湫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "收": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "不": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "休": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谋": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "猴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "楼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "浏": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瘤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "犹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "售": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蹂": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "揉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "叟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "溲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "咻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "欧": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "腧": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "缪": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "偻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鲰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "掫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "篓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "紑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蟉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "抌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "宄": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "卣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "庮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鞣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "涑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "棷": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "瞀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "緅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鄇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蚯": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "懮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蚴": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "滫": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "冓": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "棓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "踣": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "褛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "泑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "纠": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "槱": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "愀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "喌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "朻": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "临": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沈": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "深": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "心": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "禽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "吟": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "音": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "椹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "任": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "纴": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "禁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "喑": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "参": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鵀": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "妊": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "椮": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "祲": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "湛": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "浸": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "渗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "窨": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "驔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "蚕": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "探": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "耽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "弇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "三": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "担": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "唅": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "馣": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "憨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "韽": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "淦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "甔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "渰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "暗": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "颔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "酖": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "倓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "澹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "餤": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "橝": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "醰": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "錾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "盐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "占": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "兼": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "沾": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "潜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "幨": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "淹": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "砭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "襜": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "渐": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "痁": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "觇": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "苫": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "崦": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鳒": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "棪": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "厌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "餍": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "锓": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "崄": {
+   "primary": "P",
+   "aux": "Z"
+  },
+  "黚": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "腌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "谗": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "帆": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "监": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "巉": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "镵": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "嵌": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "儳": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "鰔": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "崭": {
+   "primary": "P",
+   "aux": "PZ"
+  },
+  "动": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "总": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蓊": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "菶": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "翪": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "苁": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "否": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "水": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "子": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "梓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "以": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "使": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "理": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "起": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "跂": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "鞞": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "阤": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "被": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "岿": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "誃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "惢": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "旖": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "仳": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "圯": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "呰": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "尾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "虮": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蜚": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蜰": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "唏": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "语": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "女": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "所": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "举": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "龃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "雨": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "鼓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "古": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "土": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "嵝": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "罟": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "冔": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "瞴": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蔖": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "辅": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "弩": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "普": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "五": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "缕": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "取": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "愈": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "莆": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "喣": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "窭": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "釜": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "柢": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "采": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "櫑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "廆": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "胲": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "娞": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "引": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "馻": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "弅": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "韫": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "揾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "濦": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "堇": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "远": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "混": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "焜": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "龈": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "睕": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "愃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "裷": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "僊": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "酂": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "繵": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "捖": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "暖": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "善": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "转": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "辨": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "谝": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "稨": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "謰": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "剪": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "小": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "绕": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "殍": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "赵": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "憭": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "剿": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "晁": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "膘": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "茆": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "考": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "燥": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "缲": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "轑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "娼": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "火": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "舸": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "柁": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "我": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "可": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蠃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "砢": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "婀": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "縒": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "袲": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "马": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "下": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "者": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "雅": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "也": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "把": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "舍": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "槎": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "痒": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "仰": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "彊": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "崵": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "荡": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蚢": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蛘": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "请": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "颈": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "箵": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "埂": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "酒": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "首": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "口": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "负": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "厚": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "走": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "守": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "受": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "九": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "赳": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "趣": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "瞍": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "喽": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "服": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "瞫": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "罧": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "掔": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "椠": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "欿": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "襑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "嘾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "淡": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "奄": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "玷": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "慊": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "溓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蔹": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "譣": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "嬐": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "歛": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "黯": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "送": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "众": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "痛": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "栋": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "哄": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "地": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "意": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "字": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "类": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "弃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "鼻": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "醉": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "自": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "饎": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蚝": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "甀": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "袘": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "稚": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "未": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "禨": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "虑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "助": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "箸": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "瘀": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "鸒": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "露": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "具": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "捕": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "错": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "跗": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "属": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "作": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "足": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "制": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "卫": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "系": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "切": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "会": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "带": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "盖": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "大": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "拜": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "败": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "塞": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "秽": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "菜": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "缋": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "硙": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "信": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "顺": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "揗": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "恨": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "硍": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "乱": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "赞": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "判": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "撺": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "战": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "眩": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "先": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "縓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "僆": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "嬗": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "褑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "嫙": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "抃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "笑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "召": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "骠": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "獥": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "顤": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "票": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "貌": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "乐": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "礉": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "挍": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "耗": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "饿": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "唾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "侳": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "驾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "跨": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "帐": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "旷": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "葬": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "尚": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "样": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "踼": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "徬": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "敬": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "姓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "病": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "柄": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "净": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "径": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "定": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "锭": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "镫": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "订": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "覆": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "复": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "救": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "漱": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "究": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "又": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "伏": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "酘": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "椆": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "肉": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "荫": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "妗": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "剑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "爓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "站": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "譀": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "屋": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "木": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "竹": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "目": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "福": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "熟": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "谷": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "腹": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "毂": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "独": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "卜": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "曲": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "郁": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "鱐": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "莤": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "国": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "俗": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "辱": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "束": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "触": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "驳": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "幄": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "齱": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "跃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "实": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "疾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "一": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "拮": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "物": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "月": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "越": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "伐": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "突": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "阏": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "曰": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "阢": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "脟": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "察": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "秸": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "汃": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "叭": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "婠": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "节": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "列": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "热": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "铁": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "悦": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "鳖": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "猰": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "索": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "博": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "泊": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "勺": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "斫": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "摸": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "婼": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "液": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "赤": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "革": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "脊": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "窄": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "责": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "亦": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "蝪": {
+   "primary": "Z",
+   "aux": "P"
+  },
+  "檡": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "愓": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "轹": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "郦": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "色": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "力": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "翼": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "极": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "息": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "得": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "黑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "克": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "或": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "邑": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "入": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "给": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "袭": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "合": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "答": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "杂": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "榼": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "抾": {
+   "primary": "Z",
+   "aux": "PZ"
+  },
+  "搯": {
+   "primary": "Z",
+   "aux": "PZ"
+  }
+ }
+}
